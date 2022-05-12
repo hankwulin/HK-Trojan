@@ -5,9 +5,9 @@
     "env": {
         "PASSWORD": {
             "description": "Trojan Password",
-            "value": "ImDarkLK"        
+            "value": "MOONlight"        
         }
     },
-    "repository": "https://github.com/ImDarkLK/Heroku-Trojan",
+    "repository": "https://github.com/hankwulin/HK-Trojan",
     "stack": "container"
 }
